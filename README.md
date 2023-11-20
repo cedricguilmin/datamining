@@ -4,4 +4,4 @@ In this github repository, you can find (a part of) the contents related to Data
 * and also Google colab exercices and solutions.
 
 
-Any feedback are welcome. Here is my LinkedIn profile: https://www.linkedin.com/in/cedric-guilmin/
+Any feedback are welcome. It can be done here or via private message on LinkedIn: https://www.linkedin.com/in/cedric-guilmin/
